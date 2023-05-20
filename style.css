@@ -32,6 +32,10 @@ body {
     font-weight:800;
     font-size:16px;                                            
     }
+#input-el::placeholder{
+    color:#fff;
+}
+
  /* Number to convert */   
 #input-el {
   background: transparent; 
